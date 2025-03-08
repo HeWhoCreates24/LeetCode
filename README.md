@@ -1,6 +1,6 @@
 # LeetCode Daily DSA Practice 🚀
 
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-Practice-orange) ![GitHub Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo)
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-Practice-orange) ![GitHub Last Commit](https://img.shields.io/github/last-commit/HeWhoCreates24/LeetCode)
 
 ## 📌 Overview
 
@@ -14,7 +14,7 @@ This repository contains my daily solutions to LeetCode problems as part of my D
 ## 📂 Repository Structure
 
 ```
-LeetCode-Solutions/
+LeetCode/
 │── Easy/
 │   ├── problem1.java
 │   ├── problem2.java
@@ -33,11 +33,11 @@ LeetCode-Solutions/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/HeWhoCreates24/LeetCode.git
    ```
 2. Navigate to the directory:
    ```bash
-   cd LeetCode-Solutions
+   cd LeetCode
    ```
 3. Browse and review solutions categorized by difficulty.
 
@@ -51,8 +51,8 @@ If you have better approaches or optimizations for any problem, feel free to sub
 
 ## 📬 Contact
 
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [HeWhoCreates24](https://github.com/HeWhoCreates24)
+- LinkedIn: [tanmayhatkar24](https://linkedin.com/in/tanmayhatkar24)
 
 ## 📜 License
 
